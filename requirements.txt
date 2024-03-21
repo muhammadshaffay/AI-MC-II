@@ -1,0 +1,6 @@
+langchain 
+pandas 
+seaborn 
+scikit-learn 
+openpyxl
+openai==0.28 
